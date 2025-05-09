@@ -91,7 +91,7 @@ section .main-body{
 #avatar {
     position: relative;
     height: 0;
-    top:min(-65px,max(-100px,calc(-1*100vw/12)));
+    top:min(-65px,max(-1000px,calc(-1*100vw/12)));
     max-width: 55em;
     margin: 0 1.5rem 0 0;
     float: right;
@@ -99,13 +99,53 @@ section .main-body{
 }
 
 #avatar img {
-    height: max(130px,min(200px,calc(100vw/6)));
+    height: max(270px,min(200px,calc(100vw/6)));
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+#home-subtitle {
+    color: #000000; /* 黑色 */
+    font-weight: 900; /* 加粗 */
+}
+
+/* 论文图片样式 */
+.paper-image-container {
+    margin: 1rem 0 2rem 0;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px; /* 图片和视频之间的间距 */
+}
+
+.paper-image {
+    max-width: 80%;  /* 图片最大宽度为容器的80% */
+    max-height: 200px;  /* 图片最大高度 */
+    object-fit: contain;  /* 保持图片比例 */
+    border-radius: 5px;  /* 圆角边框 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* 添加阴影效果 */
+}
+
+/* 添加论文视频样式 */
+.paper-video {
+    max-height: 200px;  /* 与图片高度一致 */
+    border-radius: 5px;  /* 圆角边框 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* 添加阴影效果 */
 }
 
 @media screen and (max-width: 991px) {
     #avatar {
         margin: 0;
+    }
+    
+    /* 在小屏幕上调整布局 */
+    .paper-image-container {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .paper-image, .paper-video {
+        max-width: 100%;
     }
 }
 

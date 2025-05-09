@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+<!-- [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073) -->
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am currently pursuing a Master’s degree in Control Science and Engineering at Shanghai Jiao Tong University, under the guidance of Professor Gao Yue. I obtained my Bachelor’s degree from the Department of Automation at Shanghai Jiao Tong University. My main research focus includes Deep Reinforcement Learning based robot control, and Embodied AI.
 
 #### Email
-sli[at]cumt.edu.cn
+B3mylq@sjtu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Control Science and Engineering, Shanghai Jiao Tong University, 2023—2026 (expected).\
+B.E., Automation, Shanghai Jiao Tong University, 2019—2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Robot Learning, Deep Reinforcement Learning, Embodied AI.
 
