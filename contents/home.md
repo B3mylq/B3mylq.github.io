@@ -8,8 +8,8 @@ I am currently pursuing a Master’s degree in Control Science and Engineering a
 B3mylq@sjtu.edu.cn
 
 #### Education
-M.E., Control Science and Engineering, Shanghai Jiao Tong University, 2023—2026 (expected).\
-B.E., Automation, Shanghai Jiao Tong University, 2019—2023.
+M.Eng., Control Science and Engineering, Shanghai Jiao Tong University, 2023—2026 (expected).\
+B.Eng., Automation, Shanghai Jiao Tong University, 2019—2023.
 
 #### Research Interests
 Robot Learning, Deep Reinforcement Learning, Embodied AI.
