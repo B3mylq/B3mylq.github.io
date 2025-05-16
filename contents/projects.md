@@ -1,6 +1,10 @@
 - <span style="color:#000000;font-size:24px">Humanoid Reinforcement Learning Framework for Agile Motion Skill -- To be Released </span>  
 <div class="paper-image-container">
   <video class="paper-video" autoplay loop muted playsinline>
+    <source src="static\assets\projects\g1\loco0.mp4" type="video/mp4">
+    您的浏览器不支持视频标签。
+  </video>
+  <video class="paper-video" autoplay loop muted playsinline>
     <source src="static\assets\projects\g1\loco1.mp4" type="video/mp4">
     您的浏览器不支持视频标签。
   </video>
