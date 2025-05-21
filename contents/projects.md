@@ -40,6 +40,14 @@
 \- Training and deploying RL based locomotion control on self-developed hexapod robot. <strong></strong>  
 <div class="paper-image-container">
   <video class="paper-video" autoplay loop muted playsinline>
+    <source src="static\assets\projects\guide_robot\sim.mp4" type="video/mp4">
+    您的浏览器不支持视频标签。
+  </video>
+  <video class="paper-video" autoplay loop muted playsinline>
+    <source src="static\assets\projects\guide_robot\stairs.mp4" type="video/mp4">
+    您的浏览器不支持视频标签。
+  </video>
+  <video class="paper-video" autoplay loop muted playsinline>
     <source src="static\assets\projects\guide_robot\guide_dog.mp4" type="video/mp4">
     您的浏览器不支持视频标签。
   </video>
